@@ -4,7 +4,7 @@
 
 ## Topics
 
-1 Introduction to Optimization, basic optimization concepts, optimization problem
+1- Introduction to Optimization, basic optimization concepts, optimization problem
 2 Unconstrained Optimization
 3 Numerical Optimization
 4 Indirect Methods: Newton Raphson, Bisection Methods and Matlab Applications
